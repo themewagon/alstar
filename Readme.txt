@@ -1,7 +1,6 @@
-Thanks for downloading this theme!
+Thanks for downloading this template!
 
-Theme Name: Alstar
-Theme URL: https://bootstrapmade.com/alstar-free-parallax-bootstrap-template/
+Template Name: Alstar
+Template URL: https://bootstrapmade.com/alstar-free-parallax-bootstrap-template/
 Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
-Alternative: https://themewagon.com/themes/free-one-page-website-template/
+License: https://bootstrapmade.com/license/
